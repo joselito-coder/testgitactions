@@ -4,8 +4,6 @@ name: Lint
 on: # yamllint disable-line rule:truthy
   push:
 
-
-
 jobs:
   build:
     name: Lint
